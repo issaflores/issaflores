@@ -1,16 +1,33 @@
-### Hi there 👋
 
-<!--
-**issaflores/issaflores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# :innocent: Sobre mim:
+Sou estudante e estou aprendendo muito com:
+<img align='right' src="https://github.com/kelvya/kelvya/blob/main/src/Sobre.png" width="300">
+- Faculdade **Analise e Desenvolvimento de Sistemas** na UNIFTEC
+- Curso **Full Stack JavaScript Developer** 
+- Curso **AWS Academy Cloud Foundations**
+- Curso **AWS Academy Cloud Developing** 
+## Estou aprendendo sobre:
+- HTML
+- CSS
+- JavaScript
+- React JS
+- Vue.JS
+- Node.JS
+- TypeScript
+- Github
+- UX/UI
+## Estou procurando colaborar em:
+Qualquer projeto que auxilie o meu processo de aprendizagem
+## Estou procurando ajuda com:
 
-Here are some ideas to get you started:
+- JavaScript
+    <p>Atualmente estou estudando sobre a linguagem e aceito qualquer dica, então se você já manja ou tem aquela dica maneira manda pra coleguinha aqui :blush: </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Como chegar até mim:
+
+[Email](mailto:raissa.paiva.flores@hotmail.com)
+[Linkedin](https://www.linkedin.com/in/raissa-paiva-flores/)
+
+
+## Curiosidade:
+Adoro café:☕
