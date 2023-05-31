@@ -1,7 +1,6 @@
 
 # :innocent: Sobre mim:
 Sou estudante e estou aprendendo muito com:
-<img align='right' src="https://github.com/kelvya/kelvya/blob/main/src/Sobre.png" width="300">
 - Faculdade **Analise e Desenvolvimento de Sistemas** na UNIFTEC
 - Curso **Full Stack JavaScript Developer** 
 - Curso **AWS Academy Cloud Foundations**
