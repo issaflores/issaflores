@@ -1,10 +1,4 @@
 
-# :innocent: Sobre mim:
-Sou estudante e estou aprendendo muito com:
-- Faculdade **Analise e Desenvolvimento de Sistemas** na UNIFTEC
-- Curso **Full Stack JavaScript Developer** 
-- Curso **AWS Academy Cloud Foundations**
-- Curso **AWS Academy Cloud Developing** 
 ## Estou aprendendo sobre:
 - HTML
 - CSS
