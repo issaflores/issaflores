@@ -1,13 +1,10 @@
 
 ## Estou aprendendo sobre:
-- HTML
-- CSS
 - JavaScript
-- React JS
+- React Native
 - Vue.JS
 - Node.JS
 - TypeScript
-- Github
 - UX/UI
 ## Estou procurando colaborar em:
 Qualquer projeto que auxilie o meu processo de aprendizagem
