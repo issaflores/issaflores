@@ -1,8 +1,7 @@
 
 ## Estou aprendendo sobre:
 - JavaScript
-- React Native
-- Vue.JS
+- React.js e Native
 - Node.JS
 - TypeScript
 - UX/UI
